@@ -10,6 +10,7 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ICON=https://raw.githubusercontent.com/cdlewis/snowboardkids2-recomp/refs/heads/main/icons/512.png
 export DEPLOY_GTK=1
 export GTK_DIR=gtk-3.0
+export DEPLOY_PIPEWIRE=1
 export DEPLOY_VULKAN=1
 
 # Deploy dependencies
